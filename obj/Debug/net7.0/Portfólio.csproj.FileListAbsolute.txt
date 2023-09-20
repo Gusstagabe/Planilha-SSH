@@ -1,0 +1,14 @@
+C:\Users\gabrielbueno\Documents\Portfólio\bin\Debug\net7.0\Portfólio.exe
+c:\Users\gabrielbueno\Documents\Portfólio\bin\Debug\net7.0\Portfólio.deps.json
+c:\Users\gabrielbueno\Documents\Portfólio\bin\Debug\net7.0\Portfólio.runtimeconfig.json
+C:\Users\gabrielbueno\Documents\Portfólio\bin\Debug\net7.0\Portfólio.dll
+C:\Users\gabrielbueno\Documents\Portfólio\bin\Debug\net7.0\Portfólio.pdb
+C:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\Portfólio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\Portfólio.AssemblyInfoInputs.cache
+C:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\Portfólio.AssemblyInfo.cs
+C:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\Portfólio.csproj.CoreCompileInputs.cache
+C:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\Portfólio.dll
+C:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\refint\Portfólio.dll
+C:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\Portfólio.pdb
+c:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\Portfólio.genruntimeconfig.cache
+c:\Users\gabrielbueno\Documents\Portfólio\obj\Debug\net7.0\ref\Portfólio.dll
